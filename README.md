@@ -1,16 +1,16 @@
-# 👨‍💻 Pedro Ferreira Gomes
+<h1 align="center">Pedro Ferreira Gomes</h1>
 
 > “Não foi de um grande salto que os grandes homens chegaram à culminância do êxito, mas sim trabalhando e velando enquanto os outros dormiam” - James Allen
 
-Sou Pedro, desenvolvedor focado em backend com paixão por aprender, ensinar e crescer. Gosto de entender a fundo o que faço — não apenas pra executar, mas pra construir com propósito.
+Sou Pedro, desenvolvedor focado em backend com paixão por aprender, ensinar e crescer. Gosto de entender a fundo o que faço, mas não apenas pra executar, mas pra construir com propósito.
 
 Acredito que o código é uma extensão da nossa forma de pensar: organizado, objetivo e com intenção. E é isso que busco em cada projeto: criar soluções reais com clareza e compromisso.
 
 ---
 
-## 🚀 Tecnologias
+<h1 align="center">Skills</h1>
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -33,7 +33,7 @@ Acredito que o código é uma extensão da nossa forma de pensar: organizado, ob
 
 ## 📬 Contato
 
-<div>
+<div align="center">
   <a href="mailto:pedroferreira.gomes03@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -43,8 +43,6 @@ Acredito que o código é uma extensão da nossa forma de pensar: organizado, ob
 </div>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferreira2120&show_icons=true&theme=tokyonight" />
