@@ -51,6 +51,16 @@ Acredito que o código é uma extensão da nossa forma de pensar: organizado, ob
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ferreira2120/Ferreira2120/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ferreira2120/Ferreira2120/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ferreira2120/Ferreira2120/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+---
+
 ## ✨ Um toque pessoal
 
 Mais do que só codar, eu gosto de fazer tudo com verdade.  
