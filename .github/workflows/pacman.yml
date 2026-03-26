@@ -10,10 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
+        with:
+          username: Ferreira2120
+          github_token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
